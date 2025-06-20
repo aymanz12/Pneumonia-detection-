@@ -6,7 +6,7 @@ An AI-powered web application that detects pneumonia from chest X-ray images usi
 
 This project uses a VGG-based convolutional neural network to analyze chest X-ray images and classify them as either normal or showing signs of pneumonia. The application is built with Streamlit for an interactive web interface.
 
-![Application Interface](screenshots/app_interface.png)
+![Application Interface](app_interface.png)
 *Main interface of the Pneumonia Detection Application*
 
 ## 🌟 Features
@@ -78,10 +78,10 @@ numpy>=1.21.0
 
 ### Application Screenshots
 
-![Upload Interface](screenshots/upload_interface.png)
+![Upload Interface](upload_interface.png)
 *Upload section where users can select X-ray images*
 
-![Analysis Results](screenshots/analysis_results.png)
+![Analysis Results](analysis_results.png)
 *Results section showing pneumonia detection with confidence scores and interpretation*
 
 ## 📊 Model Information
