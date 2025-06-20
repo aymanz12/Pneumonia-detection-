@@ -105,9 +105,9 @@ The model training process is documented in `project_ML.ipynb`. The notebook inc
 ## 📈 Performance
 
 The model achieves competitive performance on chest X-ray classification:
-- Training accuracy: [96%]
+- Training accuracy: [97%]
 - Validation accuracy: [94%]
-- Test accuracy: [90%]
+- Test accuracy: [91%]
 
 ## ⚠️ Important Disclaimer
 
